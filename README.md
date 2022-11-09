@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">I am a twenty-year-old dual student of applied computer science in Mannheim.</h3>
+<h3 align="center">I am a twenty-one year old dual student of applied computer science in Mannheim.</h3>
 
 - 🔭 I’m currently working on **a mini survival game in rust**
 
