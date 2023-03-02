@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">I am a twenty-one year old dual student of applied computer science in Mannheim.</h3>
 
-- 🔭 I’m currently working on **a mini survival game in rust**
+- 🔭 I’m currently working on projects on **kaggle** and a few **mini** side project
 
-- 🌱 I’m currently learning **rust and kotlin**
+- 🌱 I’m currently learning **rust**
 
 - ⚡ Fun fact **I like cookies**
 
