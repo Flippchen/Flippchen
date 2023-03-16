@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on projects on **kaggle** and a few **mini** side projects
 
-- 🌱 I’m currently learning **rust**
+- 🌱 I’m currently learning **rust** and **ML**
 
 - ⚡ Fun fact **I like cookies**
 
