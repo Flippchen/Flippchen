@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">I am a twenty-two year old dual student of applied computer science in Mannheim.</h3>
+<h3 align="center">I am a twenty-three year old student of computer science in Offenburg</h3>
 
-- 🔭 I’m currently working on projects on **kaggle** and a few **mini** side projects
+- 🔭 I’m currently working on projects on **Formula Student** and a few **mini** side projects
 
 - 🌱 I’m currently learning **rust** and **ML**
 
